@@ -15,11 +15,7 @@ class Unit{
 
 }
 
-class Normal{
-  void hello(){
-    print('hello');
-  }
-}
+
 abstract class AttackType{
   //avstract의 특징은 기능을 정의하지 않음.
   void kick();
